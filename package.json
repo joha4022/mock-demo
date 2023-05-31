@@ -1,0 +1,14 @@
+{
+  "name": "mock-demo",
+  "version": "1.0.0",
+  "description": "learning how to use mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joo Young Han",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
